@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Скачать видео с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/skachat-video-s-youtube)
+[![Скачать видео с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/wdvu257N1DuVfzjOR)
 
 </div>
 
@@ -109,7 +109,7 @@
 7. **🎯 Выберите качество** — 4K, 1080p или аудио
 8. **💾 Нажмите "Скачать"**
 
-[![Скачать видео с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/skachat-video-s-youtube)
+[![Скачать видео с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/wdvu257N1DuVfzjOR)
 
 ### Скачивание плейлиста
 
@@ -195,7 +195,7 @@
 
 <div align="center">
 
-[![Скачать видео с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/skachat-video-s-youtube)
+[![Скачать видео с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/wdvu257N1DuVfzjOR)
 
 **Версия 4.6.1** — Загрузчик видео с YouTube. Навсегда бесплатно.
 
